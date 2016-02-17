@@ -1,5 +1,2 @@
-readaaaa
-a b
-c d
-    bd
+read
 
